@@ -1,0 +1,7 @@
+Python List:
+Tensorflow 1.4.0 GPU
+PyTorch 0.3.0 GPU
+Kivy
+XGBoost
+Keras
+Catboost
