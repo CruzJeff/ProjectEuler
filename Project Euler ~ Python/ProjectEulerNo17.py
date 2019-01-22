@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # -*- coding: utf-8 -*-
 """
 Created on Fri Oct 20 09:55:18 2017
@@ -7,4 +8,15 @@ Created on Fri Oct 20 09:55:18 2017
 
 "Number 17 was solved without a computer"
 
+=======
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Oct 20 09:55:18 2017
+
+@author: User
+"""
+
+"Number 17 was solved without a computer"
+
+>>>>>>> origin/master
     
